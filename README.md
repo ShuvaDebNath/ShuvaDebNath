@@ -39,7 +39,7 @@
 | Project | Description | Tech |
 |---------|-------------|------|
 | [Backend Boilerplate](https://github.com/ShuvaDebNath/BackendBoilerplate) | A production-ready .NET Core boilerplate using Clean Architecture — built for rapid backend development and scalable team collaboration. | ASP.NET Core Web API, Clean Architecture |
-| [ErpQueryAssist](https://github.com/ShuvaDebNath/ErpQueryAssist) | A RAG-powered ERP assistant that converts natural language into SQL and dynamically renders Razor views for summary, detailed, and pivot outputs. | ASP.NET Core MVC, OpenAI, SQL Server, Clean Architecture |
+| [ErpQueryAssist](https://github.com/ShuvaDebNath/ErpQueryAssist) | An AI-assisted ERP reporting tool that turns natural language into SQL queries and renders dynamic Razor UI — bridging LLMs and enterprise data. | ASP.NET Core MVC, OpenAI, SQL Server, Clean Architecture |
 
 ---
 
