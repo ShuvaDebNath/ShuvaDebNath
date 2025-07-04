@@ -37,8 +37,9 @@
 ### 🚀 Featured Projects
 
 | Project | Description | Tech |
-|--------|-------------|------|
+|---------|-------------|------|
 | [Backend Boilerplate](https://github.com/ShuvaDebNath/BackendBoilerplate) | This boilerplate is designed to simplify and accelerate the daily workflow of backend developers by addressing repetitive and time-consuming tasks. | ASP.NET Core Web API, Clean Architecture |
+| [ErpQueryAssist](https://github.com/ShuvaDebNath/ErpQueryAssist) | A RAG-powered ERP assistant that takes natural language input, generates SQL, and renders dynamic Razor views with summary, details, and pivot outputs. | ASP.NET Core MVC, OpenAI, SQL Server, Clean Architecture |
 
 ---
 
